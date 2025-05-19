@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓I'm currently studying computer science at HIMIT .<br>📱 Android Developer specializing in React Native .</p>
+<p align="left">🎓I'm currently studying computer science at HIMIT .<br>📱 Android Developer .</p>
 
 ###
 
